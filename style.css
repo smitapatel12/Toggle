@@ -1,0 +1,12 @@
+#mode{
+    color: rgb(14, 14, 22);
+    background-color: rgb(243, 192, 183);
+    align-items: center;
+    border-radius: 50%;
+
+   }
+   #mode:hover{
+    cursor: pointer;
+    /* opacity: 50%; */
+    background-color:red;
+   }
